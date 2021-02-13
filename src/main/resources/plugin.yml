@@ -1,0 +1,7 @@
+name: VaultManager
+version: @version@
+main: net.nappuru.vaultmanager.VaultManager
+api-version: 1.16
+
+commands:
+  mbal:
